@@ -1,0 +1,21 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+footer {
+    margin-top: auto;
+    width: 100%;
+}
